@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: e4kog4wrs-nodejs-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/e4kog4wrs-nodejs
